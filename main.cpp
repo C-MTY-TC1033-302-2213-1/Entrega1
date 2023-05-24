@@ -19,7 +19,7 @@ int main() {
     Video viernes;
     Episodio episodio_viernes{"Tigres_Rayados", 132, 100};
     Episodio episodio_sabado{"Tigres_Campeones", 132, 100};
-    Pelicula peli;
+    Pelicula peli{"0001", "Tigres_Chivas", 600, "Deportes", 100.0, 0};
     Serie serie1;
     int opcion;
 
