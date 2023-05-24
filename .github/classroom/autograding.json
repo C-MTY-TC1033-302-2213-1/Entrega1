@@ -35,7 +35,7 @@
      "setup": "g++ -g -o main main.cpp Video.cpp Serie.cpp Pelicula.cpp Episodio.cpp",
      "run": "./main",
      "input": "4",
-     "output": "Video = 0000 TC1030 10 Computación 100.000000\nEpisodio = Tigres_Rayados 132 100\nPelicula = 0000 TC1030 10 Computación 100.000000 100\n",
+     "output": "Video = 0000 TC1030 10 Computación 100.000000\nEpisodio = Tigres_Rayados 132 100\nPelicula = 0001 Tigres_Chivas 600 Deportes 100.000000 0\n",
      "comparison": "included",
      "timeout": 2,
      "points": 25
